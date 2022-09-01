@@ -1,0 +1,40 @@
+.container{
+    border: 4px solid lightgray;
+    
+   padding: 70px 100px;
+}
+
+.row{
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto -24px auto;
+    display: flex;
+}
+.rect{
+    border: 4px solid lightgray;
+    width:200px;
+    height: 35px;
+    margin-bottom: 15px ;
+}
+
+.tiny-wrap{
+display: flex;
+
+}
+
+.rect-tiny{
+    border: 4px solid lightgray;
+    width:56px;
+    height: 35px;
+    margin-left: 5px;
+    margin-right: 3x;
+    
+}
+
+
+.rect-large{
+    border: 4px solid lightgray;
+    width:200px;
+    height: 150px;
+    margin-left: 20px;
+}
